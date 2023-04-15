@@ -1,7 +1,7 @@
-**The Rufier Test**
-\n-------------------
-\nmy_app.py - Combining the work of windows
-\ninstr.py - First window
-\nsecond_win.py - Second window
-\nfinal_win.py - Final window
-\n-------------------
+# The Rufier Test
+-------------------
+my_app.py - Combining the work of windows
+instr.py - First window
+second_win.py - Second window
+final_win.py - Final window
+-------------------
